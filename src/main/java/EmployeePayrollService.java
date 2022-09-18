@@ -30,6 +30,6 @@ public class EmployeePayrollService {
 
     public long countEntries(IOService ioType) {
         PayrollService payrollService = getPayrollServiceObject(ioType);
-        return payrollService.countEntries();
+        return payrollService.countEntries(); 
     }
 }
