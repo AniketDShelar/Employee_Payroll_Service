@@ -1,0 +1,3 @@
+Employee{id=1, name='Amit', salary=20000.0}
+Employee{id=2, name='Neha', salary=25000.0}
+Employee{id=3, name='akash', salary=30000.0}
